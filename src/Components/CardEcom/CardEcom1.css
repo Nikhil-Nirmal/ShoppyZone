@@ -1,0 +1,13 @@
+.card-ecommerce {
+    display: inline-block;
+    margin: 2.5rem;
+}
+#heart{
+    font-size: 1.5rem;
+    margin-left: 40%;
+    color: black;
+}
+
+#heart:hover{
+    color: red;
+}
